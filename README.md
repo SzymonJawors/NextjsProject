@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next.js Landing Page + AOS
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/92a78a34-5667-4424-9ace-2d2cf9eba8a4" />
+
+
+To jest mój pierwszy projekt w Next.js. Jest to prosty Landing Page, który wykorzystuje bibliotekę AOS (Animate On Scroll) do tworzenia animacji podczas przewijania strony.
+
+## O projekcie
+
+Stworzyłem ten projekt, aby nauczyć się podstaw Next.js. Strona jest responsywna i posiada nowoczesne animacje.
+
+Cechy:
+* Animacje elementów przy przewijaniu (AOS)
+* Responsywny design (RWD)
+* Nowoczesna struktura Next.js
+
+## Technologie
+
+* Next.js
+* React
+* AOS (Animate On Scroll)
+
+## Jak uruchomić (Instalacja)
+
+1. Pobierz repozytorium:
+git clone https://github.com/SzymonJawors/NextjsProject.git
+
+2. Wejdź do folderu:
+cd NextjsProject
+
+3. Zainstaluj biblioteki:
+npm install
+
+4. Uruchom projekt:
+npm run dev
+
+
+# English Version
+
+This is my first project using Next.js. It is a simple Landing Page that uses the AOS (Animate On Scroll) library to create animations while scrolling.
+
+## About the project
+
+I created this project to learn the basics of Next.js. The website is responsive and features modern scroll animations.
+
+Features:
+* Scroll animations (AOS)
+* Responsive Design (RWD)
+* Modern Next.js structure
+
+## Technologies
+
+* Next.js
+* React
+* AOS (Animate On Scroll)
 
 ## Getting Started
 
-First, run the development server:
+1. Clone the repository:
+git clone https://github.com/SzymonJawors/NextjsProject.git
 
-```bash
+2. Go to project folder:
+cd NextjsProject
+
+3. Install dependencies:
+npm install
+
+4. Run the development server:
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Autor / Author
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* SzymonJawors - https://github.com/SzymonJawors
