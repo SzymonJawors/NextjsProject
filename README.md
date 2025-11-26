@@ -4,7 +4,7 @@
 
 
 To jest mój pierwszy projekt w Next.js. Jest to prosty Landing Page, który wykorzystuje bibliotekę AOS (Animate On Scroll) do tworzenia animacji podczas przewijania strony.
-
+Strona postawiona na [Netlify](https://firstnextjsproject.netlify.app)
 ## O projekcie
 
 Stworzyłem ten projekt, aby nauczyć się podstaw Next.js. Strona jest responsywna i posiada nowoczesne animacje.
@@ -38,7 +38,7 @@ npm run dev
 # English Version
 
 This is my first project using Next.js. It is a simple Landing Page that uses the AOS (Animate On Scroll) library to create animations while scrolling.
-
+Project is live on [Netlify](https://firstnextjsproject.netlify.app)
 ## About the project
 
 I created this project to learn the basics of Next.js. The website is responsive and features modern scroll animations.
